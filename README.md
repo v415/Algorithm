@@ -1,24 +1,13 @@
-# 415 刷题特攻队
+# v4.15 制胜特工队
 
 ## 规范
 
-参考 [leetcode](https://github.com/indes/leetcode)
+参考 [indes/leetcode](https://github.com/indes/leetcode)
 
-### 目录结构（实例）：
-
-```
-- indes(个人用户名)
-  - 相关知识点[dynamic-programming|linked-list...]
-    - 题号.题目名
-      - 代码目录
-```
 ### 提交规范
 
-尽量保持一致，建议安装以下规范：
-commit message:   
+看着写，请保持前后风格一致，能清晰体现刷的题目最佳，参考以下规范：  
 ```[Pass| Review...] 题号.题名```
 
-可以考虑加入 emoji 标识，建议参考 [gitmoji | An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
-
-## 任务
-- 第一个据点：[LeetCode 初级算法](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/) 2019.04.11
+### README.me 注解
+建议在题目文件夹下加入 README.md 文件记录自己的思路和解题方法。
